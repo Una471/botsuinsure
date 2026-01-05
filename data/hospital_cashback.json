@@ -1,0 +1,33 @@
+{
+  "insurer": "Liberty Life Botswana (Pty) Limited",
+  "document_year": "2024",
+  "products": [
+    {
+      "product_name": "Hospital Cash Back Benefit",
+      "category": "hospital_cash",
+      "premiums": [
+        {"cover_amount": 100, "monthly_premium": 49},
+        {"cover_amount": 200, "monthly_premium": 79},
+        {"cover_amount": 500, "monthly_premium": 167},
+        {"cover_amount": 1000, "monthly_premium": 314}
+      ],
+      "sum_assured": "Daily benefit up to P1000, with maximum 105 days per person (total potential P105,000 per person)",
+      "waiting_period_natural": "6 months",
+      "waiting_period_accidental": "immediate",
+      "age_min": 18,
+      "age_max": 62,
+      "key_features": [
+        "Daily cash benefit for hospital stays (P100-P1000 per day)",
+        "Family cover option (main member, spouse, up to 4 children)",
+        "Double daily payout for ICU stays",
+        "Additional lump sum (5x daily benefit) if hospitalized >21 days",
+        "Cash reward every 3 years whether claimed or not",
+        "Annual Benefit Increase option (5% yearly)",
+        "Cover in Botswana and South Africa",
+        "No medicals required",
+        "Multiple claims allowed up to 105 days total"
+      ],
+      "exclusions": "Pregnancy-related claims limited to 5x daily benefit (no additional lump sum); specific conditions require minimum 7+ day stay (influenza, bronchitis, kidney infections, gastric issues, headaches/migraines, laryngitis, sinusitis, pharyngitis, fibromyalgia, chronic fatigue, back injury); not a substitute for medical aid"
+    }
+  ]
+}

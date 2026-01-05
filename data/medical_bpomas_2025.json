@@ -1,0 +1,57 @@
+{
+  "insurer": "Botswana Public Officers Medical Aid Scheme (BPOMAS)",
+  "document_year": "2025",
+  "plans": [
+    {
+      "plan_name": "Standard Benefit Option",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 3500, "monthly_premium": 101},
+        {"min_salary": 3501, "max_salary": 5500, "monthly_premium": 251},
+        {"min_salary": 5501, "max_salary": 8000, "monthly_premium": 251},
+        {"min_salary": 8001, "max_salary": null, "monthly_premium": 251}
+      ],
+      "annual_limit": 30000,
+      "co_payment": "No 10% co-payment; scheme absorbs co-payments beyond P1,000 per family per financial year",
+      "hospital_network": "Government and private hospitals in Botswana (scheme-approved providers)",
+      "maternity_cover": "Normal delivery up to P9,240 per family per annum; Caesarean section up to P14,610 per family per annum",
+      "chronic_cover": "Chronic Disease Management Program; chronic medicines up to P6,990 per member per annum (pre-authorisation required)",
+      "dental_optical": "Dental (limited dentistry): P3,630 per family per annum; Optical: Spectacles/contact lenses P1,150 per beneficiary every two years",
+      "waiting_period": "9 months for maternity if not previously covered; 12 months for limited dentistry; 2 years for pre-existing conditions (except HIV/AIDS)"
+    },
+    {
+      "plan_name": "High Benefit Option",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 3500, "monthly_premium": 448},
+        {"min_salary": 3501, "max_salary": 5500, "monthly_premium": 577},
+        {"min_salary": 5501, "max_salary": 8000, "monthly_premium": 676},
+        {"min_salary": 8001, "max_salary": null, "monthly_premium": 711}
+      ],
+      "annual_limit": 150000,
+      "co_payment": "10% co-payment; exemption applies once total co-payments reach P1,000 per family per financial year",
+      "hospital_network": "Government and private hospitals in Botswana (scheme-approved providers)",
+      "maternity_cover": "Normal delivery up to P10,165 per family per annum; Caesarean section up to P15,340 per family per annum",
+      "chronic_cover": "Chronic Disease Management Program; chronic medicines up to P29,900 per member per annum (pre-authorisation required)",
+      "dental_optical": "Dental (limited dentistry): P7,260 per family per annum; Optical: Spectacles/contact lenses P2,200 per beneficiary every two years",
+      "waiting_period": "9 months for maternity if not previously covered; 12 months for limited dentistry; 2 years for pre-existing conditions (except HIV/AIDS)"
+    },
+    {
+      "plan_name": "Premium Benefit Option",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 3500, "monthly_premium": 710},
+        {"min_salary": 3501, "max_salary": 5500, "monthly_premium": 913},
+        {"min_salary": 5501, "max_salary": 8000, "monthly_premium": 1066},
+        {"min_salary": 8001, "max_salary": null, "monthly_premium": 1124}
+      ],
+      "annual_limit": 200000,
+      "co_payment": "10% co-payment; exemption applies once total co-payments reach P1,000 per family per financial year",
+      "hospital_network": "Government and private hospitals in Botswana (scheme-approved providers)",
+      "maternity_cover": "Normal delivery up to P10,165 per family per annum; Caesarean section up to P15,765 per family per annum",
+      "chronic_cover": "Chronic Disease Management Program; chronic medicines up to P39,900 per member per annum (pre-authorisation required)",
+      "dental_optical": "Dental (limited dentistry): P8,800 per family per annum; Optical: Spectacles/contact lenses P2,500 per beneficiary every two years",
+      "waiting_period": "9 months for maternity if not previously covered; 12 months for limited dentistry; 2 years for pre-existing conditions (except HIV/AIDS)"
+    }
+  ]
+}

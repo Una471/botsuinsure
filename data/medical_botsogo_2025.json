@@ -1,0 +1,54 @@
+{
+  "insurer": "Botsogo Health Plan",
+  "document_year": "2025",
+  "plans": [
+    {
+      "plan_name": "Diamond",
+      "category": "medical",
+      "premiums": "Refer to 2025 Monthly Contribution Table (Typically categorized by salary bands P0-P5000, P5001-P10000, etc.)",
+      "annual_limit": "In-Patient: BWP 2,215,000 (Single) / BWP 4,251,000 (Family); Out-Patient: BWP 338,000 (Single) / BWP 836,000 (Family)",
+      "co_payment": "Diamond 10 attracts 10% co-payment on out-patient services",
+      "hospital_network": "Private Ward; May obtain service in RSA",
+      "maternity_cover": "Antenatal Consultations: 6 Visits; Ultrasounds: 4 Scans; Subject to overall IP Limit",
+      "chronic_cover": "BWP 44,800 (S) / BWP 69,000 (F); Includes 27 specified conditions (e.g., Hypertension, Diabetes, HIV/AIDS)",
+      "dental_optical": "Basic Dentistry: BWP 12,900 (S) / BWP 19,000 (F); Optical: BWP 6,000 per beneficiary every 24 months",
+      "waiting_period": "Standard industry periods apply: 9 months for maternity, 12 months for pre-existing conditions (unless waived)"
+    },
+    {
+      "plan_name": "Platinum",
+      "category": "medical",
+      "premiums": "Refer to 2025 Monthly Contribution Table",
+      "annual_limit": "In-Patient: BWP 1,448,000 (S) / BWP 3,407,000 (F); Out-Patient: BWP 269,000 (S) / BWP 670,000 (F)",
+      "co_payment": "Platinum 10 attracts 10% co-payment on out-patient services",
+      "hospital_network": "General medical and surgical wards (Private Ward not covered); May obtain service in RSA",
+      "maternity_cover": "Antenatal Consultations: 5 Visits; Ultrasounds: 3 Scans; Subject to overall IP Limit",
+      "chronic_cover": "BWP 33,900 (S) / BWP 51,000 (F)",
+      "dental_optical": "Basic Dentistry: BWP 8,300 (S) / BWP 12,100 (F); Optical: BWP 4,200 per beneficiary every 24 months",
+      "waiting_period": "Standard industry periods apply"
+    },
+    {
+      "plan_name": "Ruby",
+      "category": "medical",
+      "premiums": "Refer to 2025 Monthly Contribution Table",
+      "annual_limit": "In-Patient: BWP 1,105,000 (S) / BWP 1,704,000 (F); Out-Patient: BWP 63,000 (S) / BWP 84,000 (F)",
+      "co_payment": "Ruby 10 attracts 10% co-payment on out-patient services",
+      "hospital_network": "General medical and surgical wards; May obtain service in RSA",
+      "maternity_cover": "Antenatal Consultations: 4 Visits; Ultrasounds: 2 Scans; Subject to overall IP Limit",
+      "chronic_cover": "BWP 29,900 (S) / BWP 47,300 (F)",
+      "dental_optical": "Basic Dentistry: BWP 6,300 (S) / BWP 8,400 (F); Optical: BWP 3,900 per beneficiary every 24 months",
+      "waiting_period": "Standard industry periods apply"
+    },
+    {
+      "plan_name": "Bronze",
+      "category": "medical",
+      "premiums": "Refer to 2025 Monthly Contribution Table",
+      "annual_limit": "In-Patient: BWP 169,000 (S) / BWP 422,000 (F); Out-Patient: BWP 50,000 (S) / BWP 125,000 (F)",
+      "co_payment": "Standard 10% on certain services as per scheme rules",
+      "hospital_network": "General medical and surgical wards only; Service in Botswana",
+      "maternity_cover": "Antenatal Consultations: 4 Visits; Ultrasounds: 2 Scans; BWP 12,000 limit for neonatal care",
+      "chronic_cover": "BWP 12,900 (S) / BWP 16,500 (F)",
+      "dental_optical": "Basic Dentistry: BWP 3,700 (S) / BWP 4,700 (F); Optical: BWP 1,200 per beneficiary every 24 months",
+      "waiting_period": "Standard industry periods apply"
+    }
+  ]
+}

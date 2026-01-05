@@ -1,0 +1,32 @@
+{
+  "insurer": "Liberty Life Botswana (Pty) Limited",
+  "document_year": "2014",
+  "products": [
+    {
+      "product_name": "Boago Funeral Plan",
+      "category": "funeral",
+      "premiums": [
+        {"cover_amount": 10000, "monthly_premium": 43},
+        {"cover_amount": 20000, "monthly_premium": 70},
+        {"cover_amount": 30000, "monthly_premium": 98},
+        {"cover_amount": 50000, "monthly_premium": 154}
+      ],
+      "sum_assured": "P10,000-P50,000 (varies by package) + additional benefits for Comprehensive Plan",
+      "waiting_period_natural": "6 months",
+      "waiting_period_accidental": "immediate",
+      "age_min": 18,
+      "age_max": 65,
+      "key_features": [
+        "Two plan options: Basic and Comprehensive",
+        "Family cover: policyholder, spouse, up to 6 children",
+        "Double accidental death benefit for policyholder",
+        "Comprehensive Plan includes Grocery Benefit (P3,000) and Tombstone Benefit (P3,000)",
+        "Optional cover for parents/parents-in-law (max 4) and extended family (max 6)",
+        "Premium waiver feature included",
+        "Cover continues for life (no age limit) for policyholder, spouse, parents",
+        "Children covered up to age 21 (or 25 if student)"
+      ],
+      "exclusions": "Suicide within first 24 months; death due to war, invasion, hostilities, riot, terrorism; death while under influence of alcohol/illegal drugs; death during criminal activity; effects of radioactivity/nuclear explosion; death from hazardous sports or private flying"
+    }
+  ]
+}

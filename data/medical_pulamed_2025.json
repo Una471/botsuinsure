@@ -1,0 +1,70 @@
+{
+  "insurer": "Pula Medical Aid Fund (Pulamed)",
+  "document_year": "2025",
+  "plans": [
+    {
+      "plan_name": "Executive",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 10000, "monthly_premium": 1391},
+        {"min_salary": 10001, "max_salary": 20000, "monthly_premium": 1547},
+        {"min_salary": 20001, "max_salary": 30000, "monthly_premium": 1693},
+        {"min_salary": 30001, "max_salary": 1000000, "monthly_premium": 1845}
+      ],
+      "annual_limit": 2300000,
+      "co_payment": "10% for out-patient services; No co-payment for in-patient at network hospitals",
+      "hospital_network": "All private hospitals in Botswana and specialized network in RSA",
+      "maternity_cover": "Pula Baby Programme: 100% cover for delivery, 2 scans, and prenatal vitamins (Subject to AOL)",
+      "chronic_cover": "Unlimited (Subject to AOL) for 27 conditions; P50,000 for non-listed conditions",
+      "dental_optical": "Dental: P12,880, Optical: P5,120 per family per year",
+      "waiting_period": "3 months general, 9 months maternity, 12-24 months for pre-existing conditions"
+    },
+    {
+      "plan_name": "Deluxe",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 10000, "monthly_premium": 1064},
+        {"min_salary": 10001, "max_salary": 20000, "monthly_premium": 1184},
+        {"min_salary": 20001, "max_salary": 30000, "monthly_premium": 1300},
+        {"min_salary": 30001, "max_salary": 1000000, "monthly_premium": 1417}
+      ],
+      "annual_limit": 1000000,
+      "co_payment": "10% for out-patient services",
+      "hospital_network": "All private hospitals in Botswana",
+      "maternity_cover": "Pula Baby Programme: 100% cover (Subject to AOL)",
+      "chronic_cover": "P100,000 per family for 27 conditions",
+      "dental_optical": "Dental: P7,680, Optical: P3,840 per family per year",
+      "waiting_period": "3 months general, 9 months maternity, 12-24 months for pre-existing conditions"
+    },
+    {
+      "plan_name": "Galaxy",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 5000, "monthly_premium": 425},
+        {"min_salary": 5001, "max_salary": 10000, "monthly_premium": 472},
+        {"min_salary": 10001, "max_salary": 1000000, "monthly_premium": 521}
+      ],
+      "annual_limit": 125000,
+      "co_payment": "10% for all services",
+      "hospital_network": "Designated Service Providers (DSPs) and Public Hospitals",
+      "maternity_cover": "Covered up to P25,000 per year",
+      "chronic_cover": "P12,500 per family per year",
+      "dental_optical": "Dental: P3,200, Optical: P2,100 per family per year",
+      "waiting_period": "3 months general, 9 months maternity, 24 months for pre-existing conditions"
+    },
+    {
+      "plan_name": "Flexi",
+      "category": "medical",
+      "premiums": [
+        {"min_salary": 0, "max_salary": 1000000, "monthly_premium": 250}
+      ],
+      "annual_limit": 50000,
+      "co_payment": "25% for out-patient visits",
+      "hospital_network": "Public Hospitals and select mission hospitals",
+      "maternity_cover": "Limited to P5,000 for delivery",
+      "chronic_cover": "Public sector support only",
+      "dental_optical": "Dental: P1,000 (extractions only), Optical: No benefit",
+      "waiting_period": "3 months general, 12 months for specialized procedures"
+    }
+  ]
+}

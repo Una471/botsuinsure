@@ -1,0 +1,63 @@
+{
+  "insurer": "Metropolitan Life Botswana",
+  "document_year": "2024",
+  "products": [
+    {
+      "product_name": "Mothusi Life Cover - Lifeline",
+      "category": "life",
+      "premiums": [],
+      "sum_assured": "BWP 200,000 to BWP 10,000,000",
+      "waiting_period_natural": "No waiting period",
+      "waiting_period_accidental": "No waiting period",
+      "age_min": 19,
+      "age_max": 66,
+      "key_features": [
+        "Whole life cover (no expiry)",
+        "Accidental Death Cover automatically included (30% of sum assured up to BWP 300,000 before first premium)",
+        "Cash-Back Benefit: 5% of total premiums refunded every 5 years if no claims",
+        "Terminal Illness Benefit: 100% payout on diagnosis",
+        "Policy Session available",
+        "Optional add-ons: Death Premium Waiver, Disability Premium Waiver, Permanent Disability Benefit, Daily Hospital Benefit, Automatic Inflation Management"
+      ],
+      "exclusions": "Suicide within first 24 months"
+    },
+    {
+      "product_name": "Mothusi Life Cover - Term Shield",
+      "category": "life",
+      "premiums": [],
+      "sum_assured": "BWP 200,000 to BWP 10,000,000",
+      "waiting_period_natural": "No waiting period",
+      "waiting_period_accidental": "No waiting period",
+      "age_min": 19,
+      "age_max": 66,
+      "key_features": [
+        "Fixed term cover (6–30 years)",
+        "Accidental Death Cover automatically included (30% of sum assured up to BWP 300,000 before first premium)",
+        "Cash-Back Benefit: 5% of total premiums refunded every 5 years if no claims",
+        "Terminal Illness Benefit: 100% payout on diagnosis",
+        "Policy Session available",
+        "Optional add-ons: Death Premium Waiver, Disability Premium Waiver, Permanent Disability Benefit, Daily Hospital Benefit, Automatic Inflation Management"
+      ],
+      "exclusions": "Suicide within first 24 months"
+    },
+    {
+      "product_name": "Mothusi Life Cover - Home Secure",
+      "category": "life",
+      "premiums": [],
+      "sum_assured": "Up to BWP 2,500,000 (no automatic medical underwriting)",
+      "waiting_period_natural": "No waiting period",
+      "waiting_period_accidental": "No waiting period",
+      "age_min": 19,
+      "age_max": 66,
+      "key_features": [
+        "Mortgage protection with fixed term (must match mortgage term)",
+        "No automatic medical underwriting for cover up to BWP 2.5 million",
+        "Accidental Death Cover automatically included",
+        "Cash-Back Benefit: 5% of total premiums refunded every 5 years if no claims",
+        "Terminal Illness Benefit: 100% payout on diagnosis",
+        "Optional add-ons: Death Premium Waiver, Disability Premium Waiver, Permanent Disability Benefit, Daily Hospital Benefit, Automatic Inflation Management"
+      ],
+      "exclusions": "Suicide within first 24 months"
+    }
+  ]
+}
