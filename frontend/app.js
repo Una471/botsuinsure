@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8000";
+const API_BASE = "/api";
 let selectedProducts = new Set();
 
 // Load all products on page load
