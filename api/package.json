@@ -1,0 +1,10 @@
+{
+  "name": "botsuinsure",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'No dev server needed'"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
